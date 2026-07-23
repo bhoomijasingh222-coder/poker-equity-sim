@@ -187,7 +187,7 @@ The core simulator uses only the Python standard library.
 Clone the repository and enter its directory:
 
 ```bash
-git clone <https://github.com/bhoomijasingh222-coder/poker-equity-sim/tree/main>
+git clone <https://github.com/bhoomijasingh222-coder/poker-equity-monte-carlo-sim>
 cd <poker-equity-simulator>
 ```
 

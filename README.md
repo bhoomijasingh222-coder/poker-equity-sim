@@ -187,8 +187,8 @@ The core simulator uses only the Python standard library.
 Clone the repository and enter its directory:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone <https://github.com/bhoomijasingh222-coder/poker-equity-sim/tree/main>
+cd <poker-equity-simulator>
 ```
 
 Create and activate a virtual environment if desired:
